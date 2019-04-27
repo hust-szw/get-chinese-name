@@ -29,7 +29,7 @@ encoding:指定编码格式
 - 进入 文件夹 cd /../getChineseName
 - 输入 python (默认已经安装好python 并且配置好环境变量) 进入交互界面
 - import getChineseName 
-  name_set = getChineseName
-  接着就可以使用以上三种方法了，例：
-  print(name_set.get_a_name())  //打印一个名字
-  name.get_name_file(10)  //生成一个包含十个随机名字的文件
+- name_set = getChineseName
+- 接着就可以使用以上三种方法了，例：
+- print(name_set.get_a_name())  //打印一个名字
+- name.get_name_file(10)  //生成一个包含十个随机名字的文件
